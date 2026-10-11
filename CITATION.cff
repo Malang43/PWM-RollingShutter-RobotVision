@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript; publication metadata is pending."
+title: "Characterizing PWM LED–Rolling-Shutter Timing Failure Regions for Feature-Based Robot Vision"
+type: software
+authors:
+  - family-names: Mehdi
+    given-names: Muhammad Farhat
+    affiliation: "Department of Computer Engineering, University of Engineering and Technology Taxila, Taxila, Pakistan"
+version: 1.0.0
+license: MIT
+# Journal publication metadata and DOI are not claimed.

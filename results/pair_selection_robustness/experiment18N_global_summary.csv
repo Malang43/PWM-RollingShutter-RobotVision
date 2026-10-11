@@ -1,0 +1,4 @@
+StartIndex,CleanRecoveryPercent,CleanMedianFundamentalInliers,OverallPWMFailurePercent,PWMRecoveredCount,MeanConditionFailurePercent,MedianConditionFailurePercent,MeanConditionMedianRetentionPercent,MedianConditionRetentionPercent
+50,100,290.5,74.1333333333333,388,74.1333333333333,72,2.39114154349323,0
+100,100,301,67.4,489,67.4,73,3.66139689832392,0
+200,98,217.5,74.7333333333333,379,74.7333333333333,91,4.32745322099626,0

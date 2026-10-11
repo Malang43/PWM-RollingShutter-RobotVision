@@ -1,0 +1,3 @@
+Method,CleanRecoveryPercent,PWMFailurePercent,PWMRecoveredCount,MeanConditionMedianInlierRetentionPercent,MeanPWMRawMatches,MeanPWMFundamentalInliers
+SURF,100,71.3333333333333,430,3.4292701110614,17.194,12.8473333333333
+LightGlue,100,0,1500,76.2166527701181,696.925333333333,522.736

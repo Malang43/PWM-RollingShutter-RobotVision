@@ -1,0 +1,4 @@
+StartIndex,FailurePatternCorrelationVsStart100,RetentionPatternCorrelationVsStart100,MeanAbsoluteFailureDifference_pp,MeanAbsoluteRetentionDifference_pp
+50,0.904499040695199,0.950461490022926,9.53333333333333,1.44695073555707
+100,1,1,0,0
+200,0.942857202604853,0.953890063609618,8.93333333333333,1.51082831421462

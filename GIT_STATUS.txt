@@ -1,0 +1,314 @@
+Staged files: 151
+No commits; no remotes; no push performed.
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   .gitignore
+	new file:   CITATION.cff
+	new file:   GIT_STATUS.txt
+	new file:   LICENSE
+	new file:   MANIFEST.md
+	new file:   README.md
+	new file:   REPOSITORY_AUDIT.md
+	new file:   REPOSITORY_TREE.txt
+	new file:   REVIEW_NEEDED.md
+	new file:   configs/camera_intrinsics.md
+	new file:   configs/main_experiment.md
+	new file:   configs/parameter_sweeps.md
+	new file:   docs/dataset_setup.md
+	new file:   docs/environment.md
+	new file:   docs/environment_capture_instructions.md
+	new file:   docs/expected_results.md
+	new file:   docs/experimental_design.md
+	new file:   docs/figure_provenance.md
+	new file:   docs/large_files.md
+	new file:   docs/lightglue_notebook_verification.md
+	new file:   docs/notebook_portability.md
+	new file:   docs/notebook_structural_validation.md
+	new file:   docs/path_portability.md
+	new file:   docs/python_notebook_status.md
+	new file:   docs/reproduction_guide.md
+	new file:   docs/result_definitions.md
+	new file:   docs/result_evidence.md
+	new file:   figures/main/Figure01_conceptual_mechanism.png
+	new file:   figures/main/Figure02_phase_readout_statistics.pdf
+	new file:   figures/main/Figure02_phase_readout_statistics.png
+	new file:   figures/main/Figure03_cross_sequence_validation.pdf
+	new file:   figures/main/Figure03_cross_sequence_validation.png
+	new file:   figures/main/Figure04_frequency_exposure.pdf
+	new file:   figures/main/Figure04_frequency_exposure.png
+	new file:   figures/main/Figure05_duty_modulation.pdf
+	new file:   figures/main/Figure05_duty_modulation.png
+	new file:   figures/main/Figure06_gain_mismatch_mechanism.pdf
+	new file:   figures/main/Figure06_gain_mismatch_mechanism.png
+	new file:   figures/main/Figure07_parameter_summary.pdf
+	new file:   figures/main/Figure07_parameter_summary.png
+	new file:   figures/main/Figure08_shared_backend_SURF_vs_LightGlue.pdf
+	new file:   figures/main/Figure08_shared_backend_SURF_vs_LightGlue.png
+	new file:   figures/supplementary/SupplementaryFigureS1_SURF_vs_ORB.png
+	new file:   figures/supplementary/SupplementaryFigureS2_pose_failure_CI.png
+	new file:   figures/supplementary/experiment18M_accuracy_success.png
+	new file:   figures/supplementary/experiment18N_pair_selection_failure.png
+	new file:   figures/supplementary/experiment18N_pair_selection_retention.png
+	new file:   figures/supplementary/temporal_sampling_convergence.png
+	new file:   matlab/core/E_01_export_SURF_raw_matches.m
+	new file:   matlab/figure_generation/E_04_generate_final_shared_backend_figure.m
+	new file:   matlab/figure_generation/regenerate_final_journal_figures.m
+	new file:   matlab/repository_input.m
+	new file:   matlab/repository_output.m
+	new file:   matlab/repository_paths.m
+	new file:   matlab/setup_paths_example.m
+	new file:   matlab/shared_backend/E_02_shared_backend_SURF_vs_LightGlue.m
+	new file:   matlab/shared_backend/E_03_recover_shared_backend_results.m
+	new file:   matlab/shared_backend/E_20B_fr1_desk_shared_backend.m
+	new file:   matlab/statistics/E_05_paired_bootstrap_shared_backend.m
+	new file:   matlab/statistics/E_06_shared_backend_pose_accuracy.m
+	new file:   matlab/statistics/E_18M_accuracy_based_pose_success.m
+	new file:   matlab/statistics/experiment18D_clean_vs_pwm_degradation.m
+	new file:   matlab/statistics/experiment18E_final_statistics.m
+	new file:   matlab/validation/E_02B_threshold_sensitivity.m
+	new file:   matlab/validation/E_18N_pair_selection_robustness.m
+	new file:   matlab/validation/E_26_temporal_sampling_convergence.m
+	new file:   matlab/validation/compare_images_matlab_python.m
+	new file:   matlab/validation/compare_rowgain_matlab_python.m
+	new file:   matlab/validation/experiment16_brightness_matched_control.m
+	new file:   matlab/validation/experiment18C_clean_baseline_pose_check.m
+	new file:   matlab/validation/experiment18_phase_readout_ma.m
+	new file:   matlab/validation/experiment19_orb_phase_readout_map.m
+	new file:   matlab/validation/experiment21_frequency_phase_map.m
+	new file:   matlab/validation/experiment22_exposure_phase_map.m
+	new file:   matlab/validation/experiment23_duty_phase_map.m
+	new file:   matlab/validation/experiment24_modulation_phase_map.m
+	new file:   matlab/validation/experiment25_gain_mismatch_mechanism.m
+	new file:   matlab/validation/verify_all1500_input_equivalence.m
+	new file:   matlab/validation/verify_fullgrid_matlab_python_images.m
+	new file:   matlab/validation/verify_image_matlab.m
+	new file:   matlab/validation/verify_rowgain_matlab.m
+	new file:   python/lightglue/README.md
+	new file:   python/lightglue/fr1_desk_SuperPoint_LightGlue_export_final.ipynb
+	new file:   python/lightglue/fr1_xyz_SuperPoint_LightGlue_export_final.ipynb
+	new file:   python/verification/README.md
+	new file:   results/accuracy_success/experiment18M_all_attempts_pose_accuracy.csv
+	new file:   results/accuracy_success/experiment18M_clean_pose_sanity_check.csv
+	new file:   results/accuracy_success/experiment18M_condition_accuracy_success.csv
+	new file:   results/accuracy_success/experiment18M_global_accuracy_success.csv
+	new file:   results/accuracy_success/experiment18M_phase_accuracy_success.csv
+	new file:   results/accuracy_success/experiment18M_readout_accuracy_success.csv
+	new file:   results/brightness_control/experiment16_brightness_control.csv
+	new file:   results/cross_sequence/fr1_desk_SURF_vs_LightGlue_shared_backend.csv
+	new file:   results/cross_sequence/fr1_desk_failure_breakdown.csv
+	new file:   results/cross_sequence/fr1_desk_shared_backend_PWM_pairwise.csv
+	new file:   results/cross_sequence/fr1_desk_shared_backend_clean_pairwise.csv
+	new file:   results/cross_sequence/fr1_desk_shared_backend_condition_summary.csv
+	new file:   results/cross_sequence/fr1_desk_shared_backend_global_summary.csv
+	new file:   results/legacy_statistics/experiment18B_condition_summary.csv
+	new file:   results/legacy_statistics/experiment18B_pairwise_results.csv
+	new file:   results/legacy_statistics/experiment18C_clean_baseline_results.csv
+	new file:   results/legacy_statistics/experiment18D_condition_summary.csv
+	new file:   results/legacy_statistics/experiment18D_pairwise_clean_vs_pwm.csv
+	new file:   results/legacy_statistics/experiment18E_final_statistics.csv
+	new file:   results/legacy_statistics/experiment18H_SURF_vs_LightGlue_comparison.csv
+	new file:   results/legacy_statistics/experiment18_phase_readout_results.csv
+	new file:   results/legacy_statistics/experiment20_fr1_desk_phase_readout_results.csv
+	new file:   results/main_shared_backend/experiment18J_SHARED_BACKEND_SURF_vs_LightGlue.csv
+	new file:   results/main_shared_backend/experiment18J_shared_backend_PWM_pairwise.csv
+	new file:   results/main_shared_backend/experiment18J_shared_backend_clean_pairwise.csv
+	new file:   results/main_shared_backend/experiment18J_shared_backend_clean_summary.csv
+	new file:   results/main_shared_backend/experiment18J_shared_backend_condition_summary.csv
+	new file:   results/main_shared_backend/experiment18J_shared_backend_failure_breakdown.csv
+	new file:   results/main_shared_backend/experiment18J_shared_backend_global_summary.csv
+	new file:   results/main_shared_backend/experiment18K_cluster_bootstrap_distributions.csv
+	new file:   results/main_shared_backend/experiment18K_cluster_bootstrap_summary.csv
+	new file:   results/main_shared_backend/experiment18L_matched_recovered_cases.csv
+	new file:   results/main_shared_backend/experiment18L_pose_accuracy_summary.csv
+	new file:   results/main_shared_backend/experiment18L_pose_degradation_summary.csv
+	new file:   results/mechanism_analysis/experiment25_all_unique_conditions.csv
+	new file:   results/mechanism_analysis/experiment25_correlation_summary.csv
+	new file:   results/orb_validation/experiment19_orb_phase_readout_results.csv
+	new file:   results/pair_selection_robustness/experiment18N_PWM_pairwise.csv
+	new file:   results/pair_selection_robustness/experiment18N_clean_pairwise.csv
+	new file:   results/pair_selection_robustness/experiment18N_condition_summary.csv
+	new file:   results/pair_selection_robustness/experiment18N_global_summary.csv
+	new file:   results/pair_selection_robustness/experiment18N_global_summary_with_differences.csv
+	new file:   results/pair_selection_robustness/experiment18N_pattern_similarity.csv
+	new file:   results/parameter_sweeps/experiment21_frequency_phase_results.csv
+	new file:   results/parameter_sweeps/experiment22_exposure_phase_results.csv
+	new file:   results/parameter_sweeps/experiment23_duty_phase_results.csv
+	new file:   results/parameter_sweeps/experiment24_modulation_phase_results.csv
+	new file:   results/raw_correspondences/desk/fr1_desk_LightGlue_clean_matches.csv
+	new file:   results/raw_correspondences/xyz/SURF_PWM_matches.csv
+	new file:   results/raw_correspondences/xyz/SURF_PWM_summary.csv
+	new file:   results/raw_correspondences/xyz/SURF_clean_matches.csv
+	new file:   results/raw_correspondences/xyz/SURF_clean_summary.csv
+	new file:   results/raw_correspondences/xyz/experiment18I_LightGlue_PWM_summary.csv
+	new file:   results/raw_correspondences/xyz/experiment18I_LightGlue_clean_matches.csv
+	new file:   results/raw_correspondences/xyz/experiment18I_LightGlue_clean_summary.csv
+	new file:   results/raw_correspondences/xyz/experiment18I_export_integrity_check.csv
+	new file:   results/temporal_convergence/temporal_sampling_convergence_by_condition.csv
+	new file:   results/temporal_convergence/temporal_sampling_convergence_summary.csv
+	new file:   results/threshold_sensitivity/threshold_sensitivity_SURF_vs_LightGlue.csv
+	new file:   results/threshold_sensitivity/threshold_sensitivity_condition_summary.csv
+	new file:   results/threshold_sensitivity/threshold_sensitivity_global_summary.csv
+	new file:   results/verification/final_1500_input_equivalence.csv
+	new file:   results/verification/fullgrid_matlab_python_image_equivalence.csv
+	new file:   results/verification/rowgain_matlab.csv
+	new file:   results/verification/rowgain_python.csv
+	new file:   results/verification/rowgain_single_matlab.csv
+
+
+Porcelain staged state:
+A  .gitignore
+A  CITATION.cff
+A  GIT_STATUS.txt
+A  LICENSE
+A  MANIFEST.md
+A  README.md
+A  REPOSITORY_AUDIT.md
+A  REPOSITORY_TREE.txt
+A  REVIEW_NEEDED.md
+A  configs/camera_intrinsics.md
+A  configs/main_experiment.md
+A  configs/parameter_sweeps.md
+A  docs/dataset_setup.md
+A  docs/environment.md
+A  docs/environment_capture_instructions.md
+A  docs/expected_results.md
+A  docs/experimental_design.md
+A  docs/figure_provenance.md
+A  docs/large_files.md
+A  docs/lightglue_notebook_verification.md
+A  docs/notebook_portability.md
+A  docs/notebook_structural_validation.md
+A  docs/path_portability.md
+A  docs/python_notebook_status.md
+A  docs/reproduction_guide.md
+A  docs/result_definitions.md
+A  docs/result_evidence.md
+A  figures/main/Figure01_conceptual_mechanism.png
+A  figures/main/Figure02_phase_readout_statistics.pdf
+A  figures/main/Figure02_phase_readout_statistics.png
+A  figures/main/Figure03_cross_sequence_validation.pdf
+A  figures/main/Figure03_cross_sequence_validation.png
+A  figures/main/Figure04_frequency_exposure.pdf
+A  figures/main/Figure04_frequency_exposure.png
+A  figures/main/Figure05_duty_modulation.pdf
+A  figures/main/Figure05_duty_modulation.png
+A  figures/main/Figure06_gain_mismatch_mechanism.pdf
+A  figures/main/Figure06_gain_mismatch_mechanism.png
+A  figures/main/Figure07_parameter_summary.pdf
+A  figures/main/Figure07_parameter_summary.png
+A  figures/main/Figure08_shared_backend_SURF_vs_LightGlue.pdf
+A  figures/main/Figure08_shared_backend_SURF_vs_LightGlue.png
+A  figures/supplementary/SupplementaryFigureS1_SURF_vs_ORB.png
+A  figures/supplementary/SupplementaryFigureS2_pose_failure_CI.png
+A  figures/supplementary/experiment18M_accuracy_success.png
+A  figures/supplementary/experiment18N_pair_selection_failure.png
+A  figures/supplementary/experiment18N_pair_selection_retention.png
+A  figures/supplementary/temporal_sampling_convergence.png
+A  matlab/core/E_01_export_SURF_raw_matches.m
+A  matlab/figure_generation/E_04_generate_final_shared_backend_figure.m
+A  matlab/figure_generation/regenerate_final_journal_figures.m
+A  matlab/repository_input.m
+A  matlab/repository_output.m
+A  matlab/repository_paths.m
+A  matlab/setup_paths_example.m
+A  matlab/shared_backend/E_02_shared_backend_SURF_vs_LightGlue.m
+A  matlab/shared_backend/E_03_recover_shared_backend_results.m
+A  matlab/shared_backend/E_20B_fr1_desk_shared_backend.m
+A  matlab/statistics/E_05_paired_bootstrap_shared_backend.m
+A  matlab/statistics/E_06_shared_backend_pose_accuracy.m
+A  matlab/statistics/E_18M_accuracy_based_pose_success.m
+A  matlab/statistics/experiment18D_clean_vs_pwm_degradation.m
+A  matlab/statistics/experiment18E_final_statistics.m
+A  matlab/validation/E_02B_threshold_sensitivity.m
+A  matlab/validation/E_18N_pair_selection_robustness.m
+A  matlab/validation/E_26_temporal_sampling_convergence.m
+A  matlab/validation/compare_images_matlab_python.m
+A  matlab/validation/compare_rowgain_matlab_python.m
+A  matlab/validation/experiment16_brightness_matched_control.m
+A  matlab/validation/experiment18C_clean_baseline_pose_check.m
+A  matlab/validation/experiment18_phase_readout_ma.m
+A  matlab/validation/experiment19_orb_phase_readout_map.m
+A  matlab/validation/experiment21_frequency_phase_map.m
+A  matlab/validation/experiment22_exposure_phase_map.m
+A  matlab/validation/experiment23_duty_phase_map.m
+A  matlab/validation/experiment24_modulation_phase_map.m
+A  matlab/validation/experiment25_gain_mismatch_mechanism.m
+A  matlab/validation/verify_all1500_input_equivalence.m
+A  matlab/validation/verify_fullgrid_matlab_python_images.m
+A  matlab/validation/verify_image_matlab.m
+A  matlab/validation/verify_rowgain_matlab.m
+A  python/lightglue/README.md
+A  python/lightglue/fr1_desk_SuperPoint_LightGlue_export_final.ipynb
+A  python/lightglue/fr1_xyz_SuperPoint_LightGlue_export_final.ipynb
+A  python/verification/README.md
+A  results/accuracy_success/experiment18M_all_attempts_pose_accuracy.csv
+A  results/accuracy_success/experiment18M_clean_pose_sanity_check.csv
+A  results/accuracy_success/experiment18M_condition_accuracy_success.csv
+A  results/accuracy_success/experiment18M_global_accuracy_success.csv
+A  results/accuracy_success/experiment18M_phase_accuracy_success.csv
+A  results/accuracy_success/experiment18M_readout_accuracy_success.csv
+A  results/brightness_control/experiment16_brightness_control.csv
+A  results/cross_sequence/fr1_desk_SURF_vs_LightGlue_shared_backend.csv
+A  results/cross_sequence/fr1_desk_failure_breakdown.csv
+A  results/cross_sequence/fr1_desk_shared_backend_PWM_pairwise.csv
+A  results/cross_sequence/fr1_desk_shared_backend_clean_pairwise.csv
+A  results/cross_sequence/fr1_desk_shared_backend_condition_summary.csv
+A  results/cross_sequence/fr1_desk_shared_backend_global_summary.csv
+A  results/legacy_statistics/experiment18B_condition_summary.csv
+A  results/legacy_statistics/experiment18B_pairwise_results.csv
+A  results/legacy_statistics/experiment18C_clean_baseline_results.csv
+A  results/legacy_statistics/experiment18D_condition_summary.csv
+A  results/legacy_statistics/experiment18D_pairwise_clean_vs_pwm.csv
+A  results/legacy_statistics/experiment18E_final_statistics.csv
+A  results/legacy_statistics/experiment18H_SURF_vs_LightGlue_comparison.csv
+A  results/legacy_statistics/experiment18_phase_readout_results.csv
+A  results/legacy_statistics/experiment20_fr1_desk_phase_readout_results.csv
+A  results/main_shared_backend/experiment18J_SHARED_BACKEND_SURF_vs_LightGlue.csv
+A  results/main_shared_backend/experiment18J_shared_backend_PWM_pairwise.csv
+A  results/main_shared_backend/experiment18J_shared_backend_clean_pairwise.csv
+A  results/main_shared_backend/experiment18J_shared_backend_clean_summary.csv
+A  results/main_shared_backend/experiment18J_shared_backend_condition_summary.csv
+A  results/main_shared_backend/experiment18J_shared_backend_failure_breakdown.csv
+A  results/main_shared_backend/experiment18J_shared_backend_global_summary.csv
+A  results/main_shared_backend/experiment18K_cluster_bootstrap_distributions.csv
+A  results/main_shared_backend/experiment18K_cluster_bootstrap_summary.csv
+A  results/main_shared_backend/experiment18L_matched_recovered_cases.csv
+A  results/main_shared_backend/experiment18L_pose_accuracy_summary.csv
+A  results/main_shared_backend/experiment18L_pose_degradation_summary.csv
+A  results/mechanism_analysis/experiment25_all_unique_conditions.csv
+A  results/mechanism_analysis/experiment25_correlation_summary.csv
+A  results/orb_validation/experiment19_orb_phase_readout_results.csv
+A  results/pair_selection_robustness/experiment18N_PWM_pairwise.csv
+A  results/pair_selection_robustness/experiment18N_clean_pairwise.csv
+A  results/pair_selection_robustness/experiment18N_condition_summary.csv
+A  results/pair_selection_robustness/experiment18N_global_summary.csv
+A  results/pair_selection_robustness/experiment18N_global_summary_with_differences.csv
+A  results/pair_selection_robustness/experiment18N_pattern_similarity.csv
+A  results/parameter_sweeps/experiment21_frequency_phase_results.csv
+A  results/parameter_sweeps/experiment22_exposure_phase_results.csv
+A  results/parameter_sweeps/experiment23_duty_phase_results.csv
+A  results/parameter_sweeps/experiment24_modulation_phase_results.csv
+A  results/raw_correspondences/desk/fr1_desk_LightGlue_clean_matches.csv
+A  results/raw_correspondences/xyz/SURF_PWM_matches.csv
+A  results/raw_correspondences/xyz/SURF_PWM_summary.csv
+A  results/raw_correspondences/xyz/SURF_clean_matches.csv
+A  results/raw_correspondences/xyz/SURF_clean_summary.csv
+A  results/raw_correspondences/xyz/experiment18I_LightGlue_PWM_summary.csv
+A  results/raw_correspondences/xyz/experiment18I_LightGlue_clean_matches.csv
+A  results/raw_correspondences/xyz/experiment18I_LightGlue_clean_summary.csv
+A  results/raw_correspondences/xyz/experiment18I_export_integrity_check.csv
+A  results/temporal_convergence/temporal_sampling_convergence_by_condition.csv
+A  results/temporal_convergence/temporal_sampling_convergence_summary.csv
+A  results/threshold_sensitivity/threshold_sensitivity_SURF_vs_LightGlue.csv
+A  results/threshold_sensitivity/threshold_sensitivity_condition_summary.csv
+A  results/threshold_sensitivity/threshold_sensitivity_global_summary.csv
+A  results/verification/final_1500_input_equivalence.csv
+A  results/verification/fullgrid_matlab_python_image_equivalence.csv
+A  results/verification/rowgain_matlab.csv
+A  results/verification/rowgain_python.csv
+A  results/verification/rowgain_single_matlab.csv

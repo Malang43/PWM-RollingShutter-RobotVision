@@ -1,0 +1,13 @@
+Method,ReadoutMs,TotalAttempts,RecoverySuccessPercent,RotationLT5degPercent,TranslationLT15degPercent,CombinedSuccessPercent
+SURF,5,250,45.6,38,7.6,7.6
+SURF,10,250,23.6,18.8,2.4,2.4
+SURF,15,250,31.6,24.8,9.2,8.4
+SURF,20,250,24.8,18.8,4,4
+SURF,25,250,34.8,22,5.2,3.6
+SURF,30,250,39.2,26,2.8,2
+LightGlue,5,250,100,97.2,57.2,57.2
+LightGlue,10,250,100,97.2,60.4,60
+LightGlue,15,250,100,96.8,49.2,48.8
+LightGlue,20,250,100,96.8,62.8,61.6
+LightGlue,25,250,100,97.6,56,56
+LightGlue,30,250,100,97.2,53.6,53.2

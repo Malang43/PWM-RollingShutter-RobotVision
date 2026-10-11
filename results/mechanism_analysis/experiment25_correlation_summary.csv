@@ -1,0 +1,4 @@
+Metric,CorrelationWithRetention,CorrelationWithPoseFailure
+GainMismatchRMS,-0.414366768702097,0.642407540781676
+MeanRowGainStd,-0.388547550011518,0.452484644498502
+GainProfileCorrelation,0.198428387765464,-0.392509289934974

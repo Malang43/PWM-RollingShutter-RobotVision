@@ -1,0 +1,3 @@
+Method,OverallPairwisePoseFailurePercent,MeanConditionPoseFailurePercent,MeanConditionMedianInlierRetentionPercent,MeanConditionMeanInlierRetentionPercent,MedianAllPairInlierRetentionPercent,MeanAllPairInlierRetentionPercent,MeanRawMatches,MedianRawMatches,MeanFundamentalInliers,MedianFundamentalInliers
+SURF,66.7333333333333,66.7333333333333,3.60618615736883,4.51035611559423,0,4.51035611559423,17.2566666666667,8,13.288,0
+LightGlue,0,0,78.4911059807855,78.5027287265334,79.8103137224766,78.5027287265334,671.626,676,560.407333333333,567

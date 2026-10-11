@@ -1,0 +1,3 @@
+Method,CleanRecoveryPercent,NRecovered,MedianRotationErrorDeg,MedianTranslationRawErrorDeg,MedianTranslationSignInvariantErrorDeg,MedianFundamentalInliers,MedianRawMatches
+SURF,100,50,2.8697380022428,12.7980575895694,12.7980575895694,298.5,316
+LightGlue,100,50,2.87996903988339,11.2488522656282,11.2488522656282,720,857.5

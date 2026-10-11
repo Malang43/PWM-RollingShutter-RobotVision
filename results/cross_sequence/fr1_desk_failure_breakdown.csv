@@ -1,0 +1,8 @@
+Method,FailureStage,Count,Percent
+SURF,EssentialFailure,1,0.0666666666666667
+SURF,FundamentalFailure,98,6.53333333333333
+SURF,LowValidFraction,8,0.533333333333333
+SURF,Recovered,430,28.6666666666667
+SURF,TooFewEssentialInliers,234,15.6
+SURF,TooFewMatches,729,48.6
+LightGlue,Recovered,1500,100

@@ -1,0 +1,5 @@
+Metric,Observed,CI95_Lower,CI95_Upper
+SURF median clean-to-PWM rotation delta (deg),0.532158053252652,0.394343695660775,0.765171690481643
+LightGlue median clean-to-PWM rotation delta (deg),-0.0236184316335066,-0.0772512841965658,0.038931840269254
+SURF median clean-to-PWM translation delta (deg),26.3728247010471,20.5397438694248,30.5456675871633
+LightGlue median clean-to-PWM translation delta (deg),0.621732503251735,-0.853729758742473,1.86352059983885

@@ -1,0 +1,7 @@
+Metric,Observed,CI95_Lower,CI95_Upper
+"SURF pose failure (%)",66.7333333333333,64.8,68.7333333333333
+"LightGlue pose failure (%)",0,0,0
+"Failure difference, SURF-LightGlue (pp)",66.7333333333333,64.8,68.7333333333333
+"SURF mean condition median retention (%)",3.60618615736883,3.32736117202501,4.30560533276552
+"LightGlue mean condition median retention (%)",78.4911059807855,77.2312043674386,79.7533607853276
+"Retention difference, LightGlue-SURF (pp)",74.8849198234166,73.262077993766,76.1438394552918

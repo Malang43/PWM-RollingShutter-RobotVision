@@ -1,0 +1,7 @@
+Metric,Observed,CI95_Lower,CI95_Upper
+"Matched SURF median rotation error (deg)",3.51320437375932,3.18773193771675,3.70944823567467
+"Matched LightGlue median rotation error (deg)",2.74839731880035,2.43791399909658,3.01349747179784
+"Matched rotation median difference, LG-SURF (deg)",-0.76480705495897,-1.0243061591541,-0.532213294121243
+"Matched SURF median translation error (deg)",42.3658627667865,37.6165955822357,47.0681318615783
+"Matched LightGlue median translation error (deg)",12.1214577425459,10.3277353647083,14.9115842239319
+"Matched translation median difference, LG-SURF (deg)",-30.2444050242406,-34.9631867985377,-25.1641138332372
